@@ -14,6 +14,9 @@ public class Condition_Switch {
 			case 3: 
 				System.out.println("Wrong!");
 				break;
+			default: 
+				System.out.println("num01 is not a number!");
+				break;
 		}
 	}
 }

@@ -24,6 +24,9 @@ public class AccessDemo01 {
 		
 		System.out.println(example01.example01());
 		System.out.println(example01.example03());
+		
+		// System.out.println(example01.example02()); 
+		// 위 코드는 오류를 발생한다.
 
 	}
 
